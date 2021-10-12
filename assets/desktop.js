@@ -74,8 +74,7 @@ document.querySelector(".note-pad").ondblclick = function () {
     document.querySelector(".window").classList.remove("minimized")
 }
 
-document.querySelector("textarea").value ="Hey Hustlers!\n\nLe party commence ici !\n\nConsignes:\n\n- Afin d'obtenir les informations concernant l'event ''FDB Fever'' vous devez venir consulter l'onglet ''Crevette Jr. - msn'' sporadiquement d'ici le 30 octobre 2021. Il va vous trouver un sick party.\n\n- Toutes les icônes sur le bureau vous donne un accès à du contenu exclusif.\n\n- Cette fenêtre peut être fermé, réduite ou fermé.\n\nEnjoy\n\n"
-
+document.querySelector("textarea").value ="aas"
 
 dragWindow(document.querySelector(".window"));
 function dragWindow(elmnt) {
